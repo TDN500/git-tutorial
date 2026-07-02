@@ -4,6 +4,6 @@
     echo "I don't know what am I doing";
 
     echo "Computer Engineering Embedded";
-    echo "Oh my goodness net phom dee mak";
+    echo "6714140025";
     echo "ummmm Liverpool No.1 kub ajyai";
 ?>
